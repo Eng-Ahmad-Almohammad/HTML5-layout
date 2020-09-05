@@ -27,3 +27,8 @@
 ### The < section > element groups related content together, and typically each section would have its own heading.
 ### For example, on a homepage there may be several < section > elements to contain different sections of the page, such as latest news, top products, and newsletter signup.
 ### Alternatively, if you have a page with a long article, the < section > element can be used to split the article up into separate sections.
+![section](https://user-images.githubusercontent.com/70091044/92303103-82ef7080-ef7a-11ea-85fc-9df87207337e.PNG)
+## Heading Groups
+## < hgroup >
+### The purpose of the < hgroup > element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
+### For example, the < hgroup > element could be used to contain both a title inside an < h2 > element and a subtitle within an < h3 > element.
