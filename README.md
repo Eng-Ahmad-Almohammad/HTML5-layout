@@ -51,3 +51,4 @@
 ● Text that supports the main
 body of an article
 ### The < figure > element should also contain a < figcaption > element which provides a text decription for the content of the < figure > element. 
+![figure](https://user-images.githubusercontent.com/70091044/92303318-52a8d180-ef7c-11ea-936b-1ee5c0b6137e.PNG)
