@@ -10,3 +10,9 @@
 ## Navigation
 ## < nav >
 ### The < nav > element is used to contain the major navigational blocks on the site such as the primary site navigation.
+![Nav](https://user-images.githubusercontent.com/70091044/92302702-d3fd6580-ef76-11ea-95f0-4d929b283175.PNG)
+## Articles
+## < article >
+### The < article > element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+### This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
+
