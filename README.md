@@ -21,4 +21,9 @@
 ### The < aside > element has two purposes, depending on whether it is inside an < article > element or not.
 ### 1-When the < aside > element is used inside an < article > element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to.
 ### 2-When the < aside > element is used outside of an < article > element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
-
+![aside](https://user-images.githubusercontent.com/70091044/92302993-abc33600-ef79-11ea-8c5d-d06848525655.PNG)
+## Sections
+## < section >
+### The < section > element groups related content together, and typically each section would have its own heading.
+### For example, on a homepage there may be several < section > elements to contain different sections of the page, such as latest news, top products, and newsletter signup.
+### Alternatively, if you have a page with a long article, the < section > element can be used to split the article up into separate sections.
