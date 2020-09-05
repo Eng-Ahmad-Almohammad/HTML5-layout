@@ -32,3 +32,22 @@
 ## < hgroup >
 ### The purpose of the < hgroup > element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
 ### For example, the < hgroup > element could be used to contain both a title inside an < h2 > element and a subtitle within an < h3 > element.
+![hgroup](https://user-images.githubusercontent.com/70091044/92303201-52f49d00-ef7b-11ea-947a-d2b147ed3422.PNG)
+## Figures
+## < figure > < figcaption >
+###  It can be used to contain any content that is referenced from the main flow of an article (not just images).
+### It is important to note that the article should still make sense if the content of the < figure > element were moved (to another part of the page, or even to a different page altogether). For this reason, it should only be used when the content simply references the element (and not for something that is absolutely integral to the flow of a page).
+### Examples of usage include:
+● Images
+
+● Videos
+
+● Graphs
+
+● Diagrams
+
+● Code samples
+ 
+● Text that supports the main
+body of an article
+### The < figure > element should also contain a < figcaption > element which provides a text decription for the content of the < figure > element. 
